@@ -1,0 +1,6 @@
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\ClassLibrary1\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\Visual Studio 2017\Projects\Database\ClassLibrary1\obj\Debug\Dominio.csproj.CoreCompileInputs.cache

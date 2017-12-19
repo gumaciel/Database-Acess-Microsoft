@@ -1,0 +1,8 @@
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\Sessao\bin\Debug\Sessao.dll
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\Sessao\bin\Debug\Sessao.pdb
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\Sessao\bin\Debug\ClassLibrary1.dll
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\Sessao\bin\Debug\ClassLibrary1.pdb
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\Sessao\obj\Debug\Sessao.csprojResolveAssemblyReference.cache
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\Sessao\obj\Debug\Sessao.dll
+c:\Users\guilherme\documents\visual studio 2017\Projects\Database\Sessao\obj\Debug\Sessao.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2017\Projects\Database\Sessao\obj\Debug\Sessao.csproj.CoreCompileInputs.cache

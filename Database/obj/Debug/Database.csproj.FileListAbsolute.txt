@@ -1,0 +1,11 @@
+c:\users\guilherme\documents\visual studio 2017\Projects\Database\Database\bin\Debug\Database.exe.config
+c:\users\guilherme\documents\visual studio 2017\Projects\Database\Database\bin\Debug\Database.exe
+c:\users\guilherme\documents\visual studio 2017\Projects\Database\Database\bin\Debug\Database.pdb
+c:\users\guilherme\documents\visual studio 2017\Projects\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+c:\users\guilherme\documents\visual studio 2017\Projects\Database\Database\obj\Debug\Database.exe
+c:\users\guilherme\documents\visual studio 2017\Projects\Database\Database\obj\Debug\Database.pdb
+c:\users\guilherme\documents\visual studio 2017\Projects\Database\Database\bin\Debug\ClassLibrary1.dll
+c:\users\guilherme\documents\visual studio 2017\Projects\Database\Database\bin\Debug\ClassLibrary1.pdb
+c:\users\guilherme\documents\visual studio 2017\Projects\Database\Database\bin\Debug\Sessao.dll
+c:\users\guilherme\documents\visual studio 2017\Projects\Database\Database\bin\Debug\Sessao.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2017\Projects\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
